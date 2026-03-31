@@ -1,5 +1,4 @@
-# Phase 2 — Strict Quant-Grade Plan (Multi-asset, NN/LSTM, RL)
-
+# Phase 2
 ## Objective
 - Extend Phase 1 to a multi-asset universe with cross-sectional signals and controlled complexity that improves OOS Sharpe and reduces drawdown.
 
