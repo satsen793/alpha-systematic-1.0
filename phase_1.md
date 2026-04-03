@@ -1,4 +1,4 @@
-# Phase 1 — Strict Quant-Grade Plan (India, XGBoost + HMM)
+# Phase 1 
 
 ## Objective
 - Primary: Maximize walk-forward annualized Sharpe ratio on `^NSEI` daily signals while controlling max drawdown.
@@ -236,3 +236,8 @@ All label computations use `.shift(-1)` consistently and are logged with snapsho
 - Re-run fold with same manifest/seed should reproduce hashes of saved artifacts.
 
 ---
+
+
+
+
+##checklist for tomorrow
